@@ -1,6 +1,6 @@
-{ "name": "…"
+{ "name": "flip-array"
 , "version": "0.0.0-work-in-progress"
-, "description": "…"
+, "description": "Transpose a multidimensional array."
 
 , "dependencies":
   {}
@@ -17,9 +17,14 @@
   }
 
 , "devDependencies":
-  { "?": "Run `npm install babel coveralls isparta jshint nodangel tap-spec@2` and save it here"
+  { "babel": "5.1.13"
+  , "coveralls": "2.11.2"
+  , "isparta": "3.0.3"
+  , "jshint": "2.7.0"
+  , "nodangel": "1.3.8"
+  , "tap-spec": "2.2.2"
 
-  , "?": "Run `npm install tape-catch` and save it here"
+  , "tape-catch": "1.0.4"
   }
 
 , "files":
@@ -32,11 +37,16 @@
 
 , "license": "MIT"
 , "keywords":
-  [ "…"
+  [ "transpose"
+  , "array"
+  , "invert"
+  , "rotate"
+  , "flick"
+  , "2d"
   ]
 , "author": "Tomek Wiszniewski <t.wiszniewski@gmail.com>"
 , "repository":
   { "type": "git"
-  , "url": "git@github.com:tomekwi/….git"
+  , "url": "git@github.com:tomekwi/flip-array.git"
   }
 }
