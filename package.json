@@ -1,5 +1,5 @@
 { "name": "flip-array"
-, "version": "0.0.0-work-in-progress"
+, "version": "0.1.0"
 , "description": "Transpose a multidimensional array."
 
 , "dependencies":
