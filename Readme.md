@@ -10,9 +10,6 @@
  [![Code style: airbnb
 ](https://img.shields.io/badge/code%20style-airbnb-blue.svg?style=flat-square)
 ](https://github.com/airbnb/javascript)
- [![Stability: experimental
-](https://img.shields.io/badge/stability-experimental-red.svg?style=flat-square)
-](https://nodejs.org/api/documentation.html#documentation_stability_index)
 
 
 
@@ -21,11 +18,6 @@ flip-array
 ==========
 
 **Transpose a multidimensional array.**
-
-
-**⚠ Heads up!** This is totally a work in progress. [Thoughts and ideas][] are very welcome.
-
-[Thoughts and ideas]:  https://github.com/tomekwi/flip-array/issues
 
 
 
