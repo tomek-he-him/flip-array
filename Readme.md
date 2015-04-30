@@ -43,7 +43,17 @@ $ npm install …
 Usage
 -----
 
-…
+1) Import the module:
+
+```js
+import … from '…/module';
+
+// – or, in an ES5 environment:
+var … = require('…');
+```
+
+
+2) *Work in progress…*
 
 
 
