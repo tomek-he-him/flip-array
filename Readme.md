@@ -35,7 +35,7 @@ $ npm install flip-array
 Usage
 -----
 
-1) Import the module:
+1) **Import the module**:
 
 ```js
 import flip from 'flip-array/module';
@@ -45,7 +45,7 @@ var flip = require('flip-array');
 ```
 
 
-2) Profit!
+2) **Profit**!
 
 ```js
 flip([
@@ -65,10 +65,10 @@ flip([
 //    [ [3, 4] , [30, 40] , [300, 400] ] ]*
 ```
 
-*&ensp;The result is a copy of the original array. Nothing is mutated.
+<sup>*&ensp;The result is a copy of the original array. Nothing is mutated.</sup>
 
 
-3) Huh?
+3) **Huh?**
 
 https://en.wikipedia.org/wiki/Transpose
 
